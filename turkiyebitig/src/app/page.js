@@ -7,9 +7,8 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
 
-      <header className='flex'>Türkiye İlleri</header>
+      <header className='flex'>Türkiye Haritası</header>
       <MapPage />
-
     </main>
   )
 }
